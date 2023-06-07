@@ -1,0 +1,111 @@
+2023-06-07 13:04:44,080 - INFO - Creating pivot table for tag: comprobante
+2023-06-07 13:06:38,904 - INFO - Creating pivot table for tag: comprobante
+2023-06-07 13:11:00,919 - INFO - Creating pivot table for tag: comprobante
+2023-06-07 13:12:23,076 - INFO - Creating pivot table for tag: emisor
+2023-06-07 13:12:23,103 - INFO - Creating pivot table for tag: receptor
+2023-06-07 13:12:23,125 - INFO - Creating pivot table for tag: impuestos
+2023-06-07 13:12:23,140 - INFO - Creating pivot table for tag: concepto
+2023-06-07 13:12:23,161 - INFO - Creating pivot table for tag: traslado
+2023-06-07 13:12:23,178 - INFO - Creating pivot table for tag: timbrefiscaldigital
+2023-06-07 13:12:23,195 - INFO - Creating pivot table for tag: comprobante
+2023-06-07 13:12:23,215 - INFO - Creating pivot table for tag: pagos
+2023-06-07 13:12:23,226 - INFO - Creating pivot table for tag: pago
+2023-06-07 13:12:23,240 - INFO - Creating pivot table for tag: doctorelacionado
+2023-06-07 13:12:23,252 - INFO - Creating pivot table for tag: nomina
+2023-06-07 13:12:23,267 - INFO - Creating pivot table for tag: percepciones
+2023-06-07 13:12:23,277 - INFO - Creating pivot table for tag: deducciones
+2023-06-07 13:12:23,288 - INFO - Creating pivot table for tag: percepcion
+2023-06-07 13:12:23,299 - INFO - Creating pivot table for tag: deduccion
+2023-06-07 13:12:23,314 - INFO - Creating pivot table for tag: otropago
+2023-06-07 13:12:23,325 - INFO - Creating pivot table for tag: subsidioalempleo
+2023-06-07 13:14:49,874 - INFO - Creating pivot table for tag: emisor
+2023-06-07 13:14:49,907 - INFO - Creating pivot table for tag: receptor
+2023-06-07 13:14:49,932 - INFO - Creating pivot table for tag: impuestos
+2023-06-07 13:14:49,946 - INFO - Creating pivot table for tag: concepto
+2023-06-07 13:14:49,971 - INFO - Creating pivot table for tag: traslado
+2023-06-07 13:14:49,999 - INFO - Creating pivot table for tag: timbrefiscaldigital
+2023-06-07 13:14:50,032 - INFO - Creating pivot table for tag: comprobante
+2023-06-07 13:14:50,062 - INFO - Creating pivot table for tag: pagos
+2023-06-07 13:14:50,083 - INFO - Creating pivot table for tag: pago
+2023-06-07 13:14:50,106 - INFO - Creating pivot table for tag: doctorelacionado
+2023-06-07 13:14:50,128 - INFO - Creating pivot table for tag: nomina
+2023-06-07 13:14:50,157 - INFO - Creating pivot table for tag: percepciones
+2023-06-07 13:14:50,175 - INFO - Creating pivot table for tag: deducciones
+2023-06-07 13:14:50,189 - INFO - Creating pivot table for tag: percepcion
+2023-06-07 13:14:50,204 - INFO - Creating pivot table for tag: deduccion
+2023-06-07 13:14:50,223 - INFO - Creating pivot table for tag: otropago
+2023-06-07 13:14:50,241 - INFO - Creating pivot table for tag: subsidioalempleo
+2023-06-07 13:14:51,914 - INFO - Creating pivot table for tag: emisor
+2023-06-07 13:14:51,944 - INFO - Creating pivot table for tag: receptor
+2023-06-07 13:14:51,983 - INFO - Creating pivot table for tag: impuestos
+2023-06-07 13:14:52,012 - INFO - Creating pivot table for tag: concepto
+2023-06-07 13:14:52,037 - INFO - Creating pivot table for tag: traslado
+2023-06-07 13:14:52,069 - INFO - Creating pivot table for tag: timbrefiscaldigital
+2023-06-07 13:14:52,091 - INFO - Creating pivot table for tag: comprobante
+2023-06-07 13:14:52,107 - INFO - Creating pivot table for tag: pagos
+2023-06-07 13:14:52,117 - INFO - Creating pivot table for tag: pago
+2023-06-07 13:14:52,129 - INFO - Creating pivot table for tag: doctorelacionado
+2023-06-07 13:14:52,142 - INFO - Creating pivot table for tag: nomina
+2023-06-07 13:14:52,154 - INFO - Creating pivot table for tag: percepciones
+2023-06-07 13:14:52,161 - INFO - Creating pivot table for tag: deducciones
+2023-06-07 13:14:52,177 - INFO - Creating pivot table for tag: percepcion
+2023-06-07 13:14:52,194 - INFO - Creating pivot table for tag: deduccion
+2023-06-07 13:14:52,211 - INFO - Creating pivot table for tag: otropago
+2023-06-07 13:14:52,223 - INFO - Creating pivot table for tag: subsidioalempleo
+2023-06-07 13:16:18,695 - INFO - Opening PandasGUI
+2023-06-07 13:17:30,932 - INFO - Creating pivot table for tag: emisor
+2023-06-07 13:17:30,959 - INFO - Creating pivot table for tag: receptor
+2023-06-07 13:17:30,984 - INFO - Creating pivot table for tag: impuestos
+2023-06-07 13:17:31,007 - INFO - Creating pivot table for tag: concepto
+2023-06-07 13:17:31,054 - INFO - Creating pivot table for tag: traslado
+2023-06-07 13:17:31,123 - INFO - Creating pivot table for tag: timbrefiscaldigital
+2023-06-07 13:17:31,153 - INFO - Creating pivot table for tag: comprobante
+2023-06-07 13:17:31,222 - INFO - Creating pivot table for tag: pagos
+2023-06-07 13:17:31,237 - INFO - Creating pivot table for tag: pago
+2023-06-07 13:17:31,259 - INFO - Creating pivot table for tag: doctorelacionado
+2023-06-07 13:17:31,302 - INFO - Creating pivot table for tag: nomina
+2023-06-07 13:17:31,314 - INFO - Creating pivot table for tag: percepciones
+2023-06-07 13:17:31,338 - INFO - Creating pivot table for tag: deducciones
+2023-06-07 13:17:31,354 - INFO - Creating pivot table for tag: percepcion
+2023-06-07 13:17:31,363 - INFO - Creating pivot table for tag: deduccion
+2023-06-07 13:17:31,384 - INFO - Creating pivot table for tag: otropago
+2023-06-07 13:17:31,407 - INFO - Creating pivot table for tag: subsidioalempleo
+2023-06-07 13:17:55,560 - INFO - Opening PandasGUI
+2023-06-07 13:18:31,163 - ERROR - '{http://www.sat.gob.mx/TimbreFiscalDigital}TimbreFiscalDigital'
+Traceback (most recent call last):
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandasgui\store.py", line 621, in apply_filters
+    df = df.query(filt.expr, engine='python')
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\util\_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 4466, in query
+    result = self.loc[res]
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1073, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1312, in _getitem_axis
+    return self._get_label(key, axis=axis)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1260, in _get_label
+    return self.obj.xs(label, axis=axis)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4056, in xs
+    loc = index.get_loc(key)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\range.py", line 395, in get_loc
+    raise KeyError(key)
+KeyError: '{http://www.sat.gob.mx/TimbreFiscalDigital}TimbreFiscalDigital'
+2023-06-07 13:18:44,888 - ERROR - '{http://www.sat.gob.mx/TimbreFiscalDigital}TimbreFiscalDigital'
+Traceback (most recent call last):
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandasgui\store.py", line 621, in apply_filters
+    df = df.query(filt.expr, engine='python')
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\util\_decorators.py", line 331, in wrapper
+    return func(*args, **kwargs)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 4466, in query
+    result = self.loc[res]
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1073, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1312, in _getitem_axis
+    return self._get_label(key, axis=axis)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1260, in _get_label
+    return self.obj.xs(label, axis=axis)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4056, in xs
+    loc = index.get_loc(key)
+  File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\range.py", line 395, in get_loc
+    raise KeyError(key)
+KeyError: '{http://www.sat.gob.mx/TimbreFiscalDigital}TimbreFiscalDigital'
