@@ -109,3 +109,21 @@ Traceback (most recent call last):
   File "c:\Users\Roberto\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\range.py", line 395, in get_loc
     raise KeyError(key)
 KeyError: '{http://www.sat.gob.mx/TimbreFiscalDigital}TimbreFiscalDigital'
+2023-06-07 13:41:11,568 - INFO - Creating pivot table for tag: emisor
+2023-06-07 13:41:11,603 - INFO - Creating pivot table for tag: receptor
+2023-06-07 13:41:11,634 - INFO - Creating pivot table for tag: impuestos
+2023-06-07 13:41:11,659 - INFO - Creating pivot table for tag: concepto
+2023-06-07 13:41:11,685 - INFO - Creating pivot table for tag: traslado
+2023-06-07 13:41:11,709 - INFO - Creating pivot table for tag: timbrefiscaldigital
+2023-06-07 13:41:11,727 - INFO - Creating pivot table for tag: comprobante
+2023-06-07 13:41:11,756 - INFO - Creating pivot table for tag: pagos
+2023-06-07 13:41:11,769 - INFO - Creating pivot table for tag: pago
+2023-06-07 13:41:11,778 - INFO - Creating pivot table for tag: doctorelacionado
+2023-06-07 13:41:11,794 - INFO - Creating pivot table for tag: nomina
+2023-06-07 13:41:11,820 - INFO - Creating pivot table for tag: percepciones
+2023-06-07 13:41:11,840 - INFO - Creating pivot table for tag: deducciones
+2023-06-07 13:41:11,859 - INFO - Creating pivot table for tag: percepcion
+2023-06-07 13:41:11,880 - INFO - Creating pivot table for tag: deduccion
+2023-06-07 13:41:11,911 - INFO - Creating pivot table for tag: otropago
+2023-06-07 13:41:11,927 - INFO - Creating pivot table for tag: subsidioalempleo
+2023-06-07 13:41:12,292 - INFO - Opening PandasGUI
